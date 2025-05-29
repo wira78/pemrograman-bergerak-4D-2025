@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759286514292",
+    "project_id": "percobaan-895c6",
+    "storage_bucket": "percobaan-895c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759286514292:android:da1846c74dedc606418721",
+        "android_client_info": {
+          "package_name": "com.example.praktikumtambahan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaAa9qHzUHtMTdDuZDB3LvzM4l9Y3gYj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
